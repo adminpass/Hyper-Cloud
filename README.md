@@ -4,9 +4,7 @@
 
 ## [http://www.hypercloud.cc](http://www.hypercloud.cc)
 
-# 架构图：
-<div align=center>
+## 架构图：
 ![Hyper-Cloud 架构图](http://www.hypercloud.cc/images/hyper-cloud.svg)
-</div>
 
 ### 帝纪年四千七百一年 丁酉 乙巳月丁酉日
